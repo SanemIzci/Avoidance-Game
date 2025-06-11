@@ -41,6 +41,7 @@ To run this project, you need the following installed on your system:
 3. Compile with the following command:
 ```sh
 g++ -std=c++17 main.cpp -o raylib_game.exe -I C:/raylib/raylib/src -L C:/raylib/raylib/src -lraylib -lopengl32 -lgdi32 -lwinmm -lstdc++
+$ ./raylib_game.exe
 ```
 
 ## 🎯 Game Mechanics
